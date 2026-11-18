@@ -1,0 +1,11 @@
+{
+  "name": "zig",
+  "version": "0.2.0",
+  "description": "Upgrade Zig applications one release at a time.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Zig Upgrades",
+    "shortDescription": "Upgrade Zig applications between releases.",
+    "category": "Productivity"
+  }
+}

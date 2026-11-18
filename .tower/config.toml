@@ -1,0 +1,4 @@
+# The marketplace uses Tower for Markdown guides. It has no application
+# sources or configured semantic search provider.
+[extensions]
+disabled = ["debug", "fmt", "lint", "lsp", "semantic_context"]

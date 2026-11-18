@@ -1,0 +1,68 @@
+{
+  "name": "updater-marketplace",
+  "interface": {
+    "displayName": "Updater Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "php",
+      "source": {
+        "source": "local",
+        "path": "./php"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "go",
+      "source": {
+        "source": "local",
+        "path": "./go"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "zig",
+      "source": {
+        "source": "local",
+        "path": "./zig"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "rust",
+      "source": {
+        "source": "local",
+        "path": "./rust"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "js-ts",
+      "source": {
+        "source": "local",
+        "path": "./js-ts"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

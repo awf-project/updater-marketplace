@@ -1,0 +1,12 @@
+# Build outputs and dependencies from local experiments.
+target/
+node_modules/
+dist/
+vendor/
+
+# Local credentials.
+.env
+.env.*
+*.key
+*.pem
+secrets/

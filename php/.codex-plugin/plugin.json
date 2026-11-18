@@ -1,0 +1,11 @@
+{
+  "name": "php",
+  "version": "0.1.0",
+  "description": "Upgrade PHP applications across PHP, Symfony, API Platform, and Sylius releases.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "PHP Upgrades",
+    "shortDescription": "Upgrade PHP, Symfony, API Platform, and Sylius.",
+    "category": "Productivity"
+  }
+}

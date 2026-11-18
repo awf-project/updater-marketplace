@@ -1,0 +1,11 @@
+{
+  "name": "js-ts",
+  "version": "0.1.0",
+  "description": "Upgrade JavaScript and TypeScript applications across runtime and compiler releases.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "JavaScript and TypeScript Upgrades",
+    "shortDescription": "Upgrade Node.js runtimes and TypeScript compilers.",
+    "category": "Productivity"
+  }
+}

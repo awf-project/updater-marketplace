@@ -1,0 +1,41 @@
+{
+  "name": "updater-marketplace",
+  "owner": {
+    "name": "Updater Marketplace"
+  },
+  "metadata": {
+    "description": "Skills for upgrading applications to newer programming language versions."
+  },
+  "plugins": [
+    {
+      "name": "php",
+      "source": "./php",
+      "description": "Upgrade PHP applications across PHP, Symfony, API Platform, and Sylius releases.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "go",
+      "source": "./go",
+      "description": "Upgrade Go applications one release at a time.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "zig",
+      "source": "./zig",
+      "description": "Upgrade Zig applications one release at a time.",
+      "version": "0.2.0"
+    },
+    {
+      "name": "rust",
+      "source": "./rust",
+      "description": "Upgrade Rust applications one release at a time.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "js-ts",
+      "source": "./js-ts",
+      "description": "Upgrade JavaScript and TypeScript applications across runtime and compiler releases.",
+      "version": "0.1.0"
+    }
+  ]
+}

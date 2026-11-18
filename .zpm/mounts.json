@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "mounts": [
+    {
+      "name": "default",
+      "path": ".zpm/kb/default",
+      "scope": "project",
+      "mode": "rw"
+    },
+    {
+      "name": "marketplace",
+      "path": ".zpm/kb/marketplace",
+      "scope": "project",
+      "mode": "ro"
+    }
+  ]
+}

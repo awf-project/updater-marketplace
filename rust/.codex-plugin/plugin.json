@@ -1,0 +1,11 @@
+{
+  "name": "rust",
+  "version": "0.1.0",
+  "description": "Upgrade Rust applications one release at a time.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Rust Upgrades",
+    "shortDescription": "Upgrade Rust applications between releases.",
+    "category": "Productivity"
+  }
+}

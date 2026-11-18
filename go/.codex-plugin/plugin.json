@@ -1,0 +1,11 @@
+{
+  "name": "go",
+  "version": "0.1.0",
+  "description": "Upgrade Go applications one release at a time.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Go Upgrades",
+    "shortDescription": "Upgrade Go applications between releases.",
+    "category": "Productivity"
+  }
+}
