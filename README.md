@@ -39,3 +39,7 @@ Register each language plugin in `.claude-plugin/marketplace.json` and `.agents/
 Keep one main skill per plugin at `<plugin>/skills/<plugin>-upgrade/SKILL.md`. Link each reference from the skill or the component's release index. A short checklist works for a narrow release. If a release has several migration paths, give each its own section and put applicability links at the top.
 
 Read the official stable release entry before writing or revising each guide. Link it from the guide and identify patch-specific behavior by version. Lead each check with the API, setting, or runtime behavior that makes it apply. Include migration order, compatibility options, examples, or regression cases when they affect what the project should do. Link to upstream migration and release notes for exact patches and the full history.
+
+## License
+
+This repository is licensed under the [European Union Public Licence, version 1.2 (EUPL-1.2)](LICENSE).
