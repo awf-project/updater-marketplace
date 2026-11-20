@@ -4,7 +4,7 @@ Plugins for Claude Code and Codex that guide application upgrades through succes
 
 | Plugin | Skill | Migration checks |
 | --- | --- | --- |
-| `php` | [PHP Upgrades](php/skills/php-upgrade/SKILL.md) | PHP 8.2 → 8.5, [Symfony](php/skills/php-upgrade/references/symfony/index.md), [API Platform](php/skills/php-upgrade/references/api-platform/index.md), [Sylius](php/skills/php-upgrade/references/sylius/index.md) |
+| `php` | [PHP Upgrades](php/skills/php-upgrade/SKILL.md) | PHP 8.2 → [8.6](php/skills/php-upgrade/references/php-8.6.md), [Symfony](php/skills/php-upgrade/references/symfony/index.md), [API Platform](php/skills/php-upgrade/references/api-platform/index.md), [Sylius](php/skills/php-upgrade/references/sylius/index.md) |
 | `go` | [Go Upgrades](go/skills/go-upgrade/SKILL.md) | 1.24 → 1.25 → 1.26 → 1.27 |
 | `zig` | [Zig Upgrades](zig/skills/zig-upgrade/SKILL.md) | 0.13 → 0.14 → 0.15 → 0.16 → 0.17 |
 | `rust` | [Rust Upgrades](rust/skills/rust-upgrade/SKILL.md) | 1.97 → 1.98 → 1.99 → 1.100 and edition 2021 → 2024 |

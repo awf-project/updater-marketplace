@@ -11,7 +11,7 @@ If the current project already satisfies the target across in-scope runtimes, pa
 
 ## Migration checks by target series
 
-- PHP [8.3](references/php-8.3.md), [8.4](references/php-8.4.md), [8.5](references/php-8.5.md). [PHP downloads](https://www.php.net/downloads.php), [migration guides](https://www.php.net/manual/en/appendices.php), [patch history](https://www.php.net/ChangeLog-8.php)
+- PHP [8.3](references/php-8.3.md), [8.4](references/php-8.4.md), [8.5](references/php-8.5.md), [8.6](references/php-8.6.md). [PHP downloads](https://www.php.net/downloads.php), [migration guides](https://www.php.net/manual/en/appendices.php), [patch history](https://www.php.net/ChangeLog-8.php)
 - [Symfony migration checks](references/symfony/index.md), [upstream releases](https://symfony.com/releases)
 - [API Platform migration checks](references/api-platform/index.md), [upstream releases](https://github.com/api-platform/core/releases)
 - [Sylius migration checks](references/sylius/index.md), [upstream releases](https://github.com/Sylius/Sylius/releases)
